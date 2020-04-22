@@ -3,5 +3,5 @@
     <enableOmniAutoLoginPrompt xsi:nil="true"/>
     <enableOmniChannel>true</enableOmniChannel>
     <enableOmniSecondaryRoutingPriority xsi:nil="true"/>
-    <enableOmniSkillsRouting>false</enableOmniSkillsRouting>
+    <enableOmniSkillsRouting>true</enableOmniSkillsRouting>
 </OmniChannelSettings>
