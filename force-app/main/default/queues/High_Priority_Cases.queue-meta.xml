@@ -3,9 +3,9 @@
     <doesSendEmailToMembers>false</doesSendEmailToMembers>
     <name>High-Priority Cases</name>
     <queueMembers>
-        <users>
-            <user>jml@chat.com</user>
-        </users>
+        <publicGroups>
+            <publicGroup>AllInternalUsers</publicGroup>
+        </publicGroups>
     </queueMembers>
     <queueRoutingConfig>High_Priority_Cases</queueRoutingConfig>
     <queueSobject>

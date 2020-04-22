@@ -21,6 +21,10 @@
         <name>Layout</name>
     </types>
     <types>
+        <members>Case_Support</members>
+        <name>PermissionSet</name>
+    </types>
+    <types>
         <members>default_presence_config</members>
         <members>Tier1_Agents</members>
         <name>PresenceUserConfig</name>
