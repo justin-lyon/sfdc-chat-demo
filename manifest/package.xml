@@ -40,6 +40,10 @@
         <name>QueueRoutingConfig</name>
     </types>
     <types>
+        <members>unfiled$public/OmniChannel_Work_LL3</members>
+        <name>Report</name>
+    </types>
+    <types>
         <members>OmniChannel</members>
         <name>Settings</name>
     </types>
