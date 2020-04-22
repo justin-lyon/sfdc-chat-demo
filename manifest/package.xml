@@ -19,6 +19,10 @@
         <name>CustomApplication</name>
     </types>
     <types>
+        <members>Chat_Setup_Flow_Site</members>
+        <name>CustomSite</name>
+    </types>
+    <types>
         <members>Chat_Agents</members>
         <name>EmbeddedServiceConfig</name>
     </types>
