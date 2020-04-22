@@ -5,6 +5,10 @@
         <name>ApexClass</name>
     </types>
     <types>
+        <members>Web_Chat</members>
+        <name>ApexPage</name>
+    </types>
+    <types>
         <members>Chat_Console</members>
         <members>OmniChannel_Console</members>
         <name>CustomApplication</name>
@@ -58,6 +62,11 @@
         <members>Software_Technical_Support</members>
         <members>Spanish</members>
         <name>Skill</name>
+    </types>
+    <types>
+        <members>Logo</members>
+        <members>AgentAvatar</members>
+        <name>StaticResource</name>
     </types>
     <version>48.0</version>
 </Package>
