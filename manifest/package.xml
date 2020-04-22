@@ -9,6 +9,19 @@
         <name>FlexiPage</name>
     </types>
     <types>
+        <members>default_presence_config</members>
+        <members>Tier1_Agents</members>
+        <name>PresenceUserConfig</name>
+    </types>
+    <types>
+        <members>High_Priority_Cases</members>
+        <name>Queue</name>
+    </types>
+    <types>
+        <members>High_Priority_Cases</members>
+        <name>QueueRoutingConfig</name>
+    </types>
+    <types>
         <members>OmniChannel</members>
         <name>Settings</name>
     </types>
