@@ -1,0 +1,10 @@
+[
+    {
+        "sobject": "ServiceResource",
+        "saveRefs": true,
+        "resolveRefs": false,
+        "files": [
+            "ServiceResources.json"
+        ]
+    }
+]
