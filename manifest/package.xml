@@ -9,6 +9,10 @@
         <name>FlexiPage</name>
     </types>
     <types>
+        <members>ServiceResource-Service Resource Layout</members>
+        <name>Layout</name>
+    </types>
+    <types>
         <members>default_presence_config</members>
         <members>Tier1_Agents</members>
         <name>PresenceUserConfig</name>
