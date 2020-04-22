@@ -6,10 +6,12 @@
     </types>
     <types>
         <members>Chat_Console</members>
+        <members>OmniChannel_Console</members>
         <name>CustomApplication</name>
     </types>
     <types>
         <members>Chat_Console_UtilityBar</members>
+        <members>Omni_Channel_Console_UtilityBar</members>
         <name>FlexiPage</name>
     </types>
     <types>

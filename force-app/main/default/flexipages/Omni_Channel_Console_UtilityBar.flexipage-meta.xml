@@ -11,7 +11,7 @@
         <name>backgroundComponents</name>
         <type>Background</type>
     </flexiPageRegions>
-    <masterLabel>Chat Console UtilityBar</masterLabel>
+    <masterLabel>Omni-Channel Console UtilityBar</masterLabel>
     <template>
         <name>one:utilityBarTemplateDesktop</name>
     </template>
