@@ -25,5 +25,14 @@
         <members>OmniChannel</members>
         <name>Settings</name>
     </types>
+    <types>
+        <members>English</members>
+        <members>French</members>
+        <members>Hardware_Technical_Support</members>
+        <members>Orders_and_Billing</members>
+        <members>Software_Technical_Support</members>
+        <members>Spanish</members>
+        <name>Skill</name>
+    </types>
     <version>48.0</version>
 </Package>
