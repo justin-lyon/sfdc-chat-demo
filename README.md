@@ -4,6 +4,7 @@ Deployment Steps
 
 1. Enable Omni-channel
 1. Enable Skills Based Routing
+1. Change Username in /sites/Chat_Setup_Flow_Site
 1. Deploy master
 
 # Trailheads covered
