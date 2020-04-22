@@ -10,3 +10,4 @@ Deployment Steps
 # Trailheads covered
 
 1. [Omni-Channel for Lightning Experience](https://trailhead.salesforce.com/content/learn/modules/omni-channel-lex?trailmix_creator_id=jlyon&trailmix_slug=to-do)
+1. [Web Chat Basics](https://trailhead.salesforce.com/content/learn/modules/web-chat?trailmix_creator_id=jlyon&trailmix_slug=to-do)
