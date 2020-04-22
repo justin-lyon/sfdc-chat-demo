@@ -9,9 +9,22 @@
         <name>ApexPage</name>
     </types>
     <types>
+        <members>https_force_com</members>
+        <members>https_visualforce_com</members>
+        <name>CorsWhitelistOrigin</name>
+    </types>
+    <types>
         <members>Chat_Console</members>
         <members>OmniChannel_Console</members>
         <name>CustomApplication</name>
+    </types>
+    <types>
+        <members>Chat_Agents</members>
+        <name>EmbeddedServiceConfig</name>
+    </types>
+    <types>
+        <members>Chat_Agents</members>
+        <name>EmbeddedServiceBranding</name>
     </types>
     <types>
         <members>Chat_Console_UtilityBar</members>
@@ -25,6 +38,10 @@
     <types>
         <members>ServiceResource-Service Resource Layout</members>
         <name>Layout</name>
+    </types>
+    <types>
+        <members>Chat_Agents</members>
+        <name>LiveChatButton</name>
     </types>
     <types>
         <members>Case_Support</members>

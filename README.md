@@ -4,8 +4,6 @@ Deployment Steps
 
 1. Enable Omni-channel
 1. Enable Skills Based Routing
-1. Change user name in /queues/High_Priority_Cases to your username
-1. Change user name in /presenceUserConfigs/Tier1_Agents to your username
 1. Deploy master
 
 # Trailheads covered
