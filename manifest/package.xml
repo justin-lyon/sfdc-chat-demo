@@ -13,6 +13,10 @@
         <name>FlexiPage</name>
     </types>
     <types>
+        <members>Skills_based_routing</members>
+        <name>Flow</name>
+    </types>
+    <types>
         <members>ServiceResource-Service Resource Layout</members>
         <name>Layout</name>
     </types>
