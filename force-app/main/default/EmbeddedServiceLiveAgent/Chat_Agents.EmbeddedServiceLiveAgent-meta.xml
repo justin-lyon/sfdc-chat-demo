@@ -10,13 +10,19 @@
     </embeddedServiceQuickActions>
     <embeddedServiceQuickActions>
         <embeddedServiceLiveAgent>Chat_Agents</embeddedServiceLiveAgent>
+        <order>1</order>
+        <quickActionDefinition>Offline_Case</quickActionDefinition>
+        <quickActionType>OfflineCase</quickActionType>
+    </embeddedServiceQuickActions>
+    <embeddedServiceQuickActions>
+        <embeddedServiceLiveAgent>Chat_Agents</embeddedServiceLiveAgent>
         <order>2</order>
         <quickActionDefinition>Prechat_Case</quickActionDefinition>
         <quickActionType>Prechat</quickActionType>
     </embeddedServiceQuickActions>
     <enabled>true</enabled>
     <fontSize>Medium</fontSize>
-    <isOfflineCaseEnabled>false</isOfflineCaseEnabled>
+    <isOfflineCaseEnabled>true</isOfflineCaseEnabled>
     <isQueuePositionEnabled>false</isQueuePositionEnabled>
     <liveChatButton>Chat_Agents</liveChatButton>
     <liveChatDeployment>live_agent_setup_flow</liveChatDeployment>

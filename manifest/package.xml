@@ -72,6 +72,7 @@
         <name>QueueRoutingConfig</name>
     </types>
     <types>
+        <members>Offline_Case</members>
         <members>Prechat_Case</members>
         <members>Prechat_Contact</members>
         <name>QuickAction</name>
