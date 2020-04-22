@@ -1,9 +1,7 @@
 # Salesforce App
 
-## Dev, Build and Test
+Deployment Steps
 
-## Resources
-
-## Description of Files and Directories
-
-## Issues
+1. Enable Omni-channel
+1. Enable Skills Based Routing
+1. Deploy master
