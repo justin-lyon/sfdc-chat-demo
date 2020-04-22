@@ -29,14 +29,17 @@
     <types>
         <members>default_presence_config</members>
         <members>Tier1_Agents</members>
+        <members>Chat_Agents</members>
         <name>PresenceUserConfig</name>
     </types>
     <types>
         <members>High_Priority_Cases</members>
+        <members>Chats</members>
         <name>Queue</name>
     </types>
     <types>
         <members>High_Priority_Cases</members>
+        <members>Chats</members>
         <name>QueueRoutingConfig</name>
     </types>
     <types>

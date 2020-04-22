@@ -1,10 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <PresenceUserConfig xmlns="http://soap.sforce.com/2006/04/metadata">
+    <assignments>
+        <users>
+            <user>jml@chat.com</user>
+        </users>
+    </assignments>
     <capacity>20</capacity>
     <enableAutoAccept>false</enableAutoAccept>
     <enableDecline>false</enableDecline>
     <enableDeclineReason>false</enableDeclineReason>
-    <enableDisconnectSound>true</enableDisconnectSound>
-    <enableRequestSound>true</enableRequestSound>
-    <label>Tier1 Agents</label>
+    <enableDisconnectSound>false</enableDisconnectSound>
+    <enableRequestSound>false</enableRequestSound>
+    <label>Chat Agents</label>
 </PresenceUserConfig>
