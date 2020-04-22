@@ -15,3 +15,4 @@ package.xml
 AppSwitcher.appMenu
 # **/profiles/**
 **/settings/**
+!**/settings/OmniChannel.settings

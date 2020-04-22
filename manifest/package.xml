@@ -8,5 +8,9 @@
         <members>Chat_Console_UtilityBar</members>
         <name>FlexiPage</name>
     </types>
+    <types>
+        <members>OmniChannel</members>
+        <name>Settings</name>
+    </types>
     <version>48.0</version>
 </Package>
