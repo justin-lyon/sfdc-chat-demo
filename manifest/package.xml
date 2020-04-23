@@ -86,6 +86,10 @@
         <name>Report</name>
     </types>
     <types>
+        <members>Omni_Channel_Reports</members>
+        <name>ReportType</name>
+    </types>
+    <types>
         <members>OmniChannel</members>
         <name>Settings</name>
     </types>
