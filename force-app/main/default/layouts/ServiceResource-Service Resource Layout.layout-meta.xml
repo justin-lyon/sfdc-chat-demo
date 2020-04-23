@@ -65,10 +65,6 @@
         <style>CustomLinks</style>
     </layoutSections>
     <relatedLists>
-        <fields>ServiceAppointment</fields>
-        <relatedList>ServiceAppointments</relatedList>
-    </relatedLists>
-    <relatedLists>
         <fields>SkillMasterLabel</fields>
         <fields>SkillLevel</fields>
         <fields>EffectiveStartDate</fields>
@@ -95,14 +91,6 @@
         <relatedList>RelatedHistoryList</relatedList>
     </relatedLists>
     <relatedLists>
-        <fields>Name</fields>
-        <fields>ServiceTerritory</fields>
-        <fields>TerritoryType</fields>
-        <fields>EffectiveStartDate</fields>
-        <fields>EffectiveEndDate</fields>
-        <relatedList>ServiceTerritoryRelatedList</relatedList>
-    </relatedLists>
-    <relatedLists>
         <relatedList>RelatedNoteList</relatedList>
     </relatedLists>
     <relatedLists>
@@ -110,12 +98,6 @@
     </relatedLists>
     <relatedLists>
         <relatedList>RelatedEntityHistoryList</relatedList>
-    </relatedLists>
-    <relatedLists>
-        <fields>Start</fields>
-        <fields>End</fields>
-        <fields>Type</fields>
-        <relatedList>ResourceAbsences</relatedList>
     </relatedLists>
     <relatedLists>
         <fields>CreatedDate</fields>
