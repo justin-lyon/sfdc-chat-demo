@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<LiveChatButton xmlns="http://soap.sforce.com/2006/04/metadata" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<LiveChatButton xmlns="http://soap.sforce.com/2006/04/metadata">
     <deployments/>
     <enableQueue>false</enableQueue>
     <isActive>true</isActive>
@@ -11,6 +11,9 @@
     <optionsHasRerouteDeclinedRequest>false</optionsHasRerouteDeclinedRequest>
     <optionsIsAutoAccept>false</optionsIsAutoAccept>
     <optionsIsInviteAutoRemove>false</optionsIsInviteAutoRemove>
-    <routingType xsi:nil="true"/>
+    <routingType>MostAvailable</routingType>
+    <skills>
+        <skill>English</skill>
+    </skills>
     <type>Standard</type>
 </LiveChatButton>

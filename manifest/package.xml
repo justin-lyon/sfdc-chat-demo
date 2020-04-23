@@ -52,6 +52,10 @@
         <name>LiveChatButton</name>
     </types>
     <types>
+        <members>live_agent_setup_flow</members>
+        <name>LiveChatDeployment</name>
+    </types>
+    <types>
         <members>Case_Support</members>
         <name>PermissionSet</name>
     </types>
