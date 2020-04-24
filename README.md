@@ -11,6 +11,7 @@ Deployment Steps
 
 ## Post Deployment
 
+1. For each Chat Agent, update their User record with the Chat User checkbox.
 1. Change LiveChatButton Chat_Agents from Most Available to OmniChannel Queue - Chats Queue
 1. From Embedded Chat Deployment, Get Code, and save to Web_Chat Visualforce page.
 
